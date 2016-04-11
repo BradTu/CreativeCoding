@@ -1,3 +1,7 @@
+//Brad Tully
+//April 4 2016
+//This app makes a two player pong style game
+
 #include "ofApp.h"
 
 //--------------------------------------------------------------
