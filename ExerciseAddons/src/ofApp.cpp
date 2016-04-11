@@ -1,6 +1,7 @@
 //Brad Tully
 //5 April 2016
 //Exercise 3
+//Uses ofxBox2d and ofxGui to allow the user to change the radii of the circles and squares they make
 
 #include "ofApp.h"
 #include "ofxBox2d.h"
