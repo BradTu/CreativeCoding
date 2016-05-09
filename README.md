@@ -1,6 +1,6 @@
 # CreativeCoding
 Made by Brad Tully.
-This repository contains four projects. They all use the open source software openframeworks. 
+This repository contains five programs. They all use the open source software openframeworks which uses c++. 
 
 ##ExcerciseAddons
 The first project is ExcerciseAddons. This program uses the openframeworks addons ofxBox2d and ofxGui. This project uses the gui to allow the user to change the radii of the squares and circles they make. 
