@@ -21,3 +21,6 @@ The third project is theFace. This program uses basic drawing features to draw t
 ExoPlanetaryNeighborhood uses the addons ofxCsv and ofxGui. This program reads data from a csv file that has information about exoplanets. This information comes from NASA's Kepler program. The information can be found at http://kepler.nasa.gov/Mission/discoveries/. This program prints out the planets a as far from the center as it is in parsecs from Earth. Each has a unique color based of of its temperature. When the user clicks on the planets their information gets printed to the console.
 
 ![alt tag](https://github.com/BradTu/CreativeCoding/blob/master/ExoPlanetaryNeighborhood.PNG)
+
+##ExVision
+This program incorporates the user's camera on their computer. It draws a pair of sunglasses on the user and if they open their mouth up it draws circles falling out of their mouth. This program uses the addons: ofxBox2d, ofxCv, ofxFaceTracker, ofxGui, ofxOpenCv, ofxOsc, and ofxXmlSettings.
