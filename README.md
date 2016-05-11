@@ -8,7 +8,7 @@ The first project is ExcerciseAddons. This program uses the openframeworks addon
 ![alt tag](https://github.com/BradTu/CreativeCoding/blob/master/Addons.PNG)
 
 ##ExcerciseAnimation
-The second project is ExcerciseAnimation. This program makes a basic pong style game that two people can play at once. 
+The second project is ExcerciseAnimation. This program makes a basic pong style game that two people can play at once. The player on the left controls their rectangle using the 'w' and 's' keys and the right player uses the 'up' and 'down' keys to control their rectangle. The game is continuous so if someone scores the ball bounces off of the wall and continues on and the score is adjusted.
 
 ![alt tag](https://github.com/BradTu/CreativeCoding/blob/master/Animation.PNG)
 
@@ -24,3 +24,5 @@ ExoPlanetaryNeighborhood uses the addons ofxCsv and ofxGui. This program reads d
 
 ##ExVision
 This program incorporates the user's camera on their computer. It draws a pair of sunglasses on the user and if they open their mouth up it draws circles falling out of their mouth. This program uses the addons: ofxBox2d, ofxCv, ofxFaceTracker, ofxGui, ofxOpenCv, ofxOsc, and ofxXmlSettings.
+
+![alt tag](https://github.com/BradTu/CreativeCoding/blob/master/ExVision_Picture.JPG)
