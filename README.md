@@ -22,6 +22,10 @@ ExoPlanetaryNeighborhood uses the addons ofxCsv and ofxGui. This program reads d
 
 ![alt tag](https://github.com/BradTu/CreativeCoding/blob/master/ExoPlanetaryNeighborhood.PNG)
 
+![alt tag](https://github.com/BradTu/CreativeCoding/blob/master/ExoPlanetaryNeighborhood(2).JPG)
+
+![alt tag](https://github.com/BradTu/CreativeCoding/blob/master/ExoPlanetaryNeighborhood%20Console.JPG)
+
 ##ExVision
 This program incorporates the user's camera on their computer. It draws a pair of sunglasses on the user and if they open their mouth up it draws circles falling out of their mouth. This program uses the addons: ofxBox2d, ofxCv, ofxFaceTracker, ofxGui, ofxOpenCv, ofxOsc, and ofxXmlSettings.
 
