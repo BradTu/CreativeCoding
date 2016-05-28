@@ -32,7 +32,7 @@ This program incorporates the user's camera on their computer. It draws a pair o
 ![alt tag](https://github.com/BradTu/CreativeCoding/blob/master/ExVision_Picture.JPG)
 
 ##OilGame
-This program is a simple game where the player purchases oil rigs and puts them on patches of oil to make money. The only way the player can complete the game is to take part in bribery and goverment corruption. The player cannot inherently lose the game which was on purpose because there is too much money and power in the oil industry. This is more of a statement piece than a true video game. 
+This program is a simple game where the player purchases oil rigs and puts them on patches of oil to make money. The only way the player can complete the game is to take part in bribery and goverment corruption. The player cannot inherently lose the game which was on purpose because there is too much money and power in the oil industry. This is more of a statement piece than a true video game. This program does not use any addons or have any external dependencies.
 
 ![alt tag](https://github.com/BradTu/CreativeCoding/blob/master/OilGame%201.JPG)
 
