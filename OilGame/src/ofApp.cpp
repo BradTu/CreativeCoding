@@ -1,3 +1,9 @@
+//Made by Brad Tully
+//Creative Coding
+//5/29/2016
+//This program makes a basic game where the player purchases oil rigs and puts them on oil patches to make money. In order to win the 
+//player must take part in activities such as bribery and paying for a government coup. This is more of a statement piece.
+
 #include "ofApp.h"
 
 //--------------------------------------------------------------
