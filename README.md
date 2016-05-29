@@ -2,13 +2,13 @@
 Made by Brad Tully.
 This repository contains six programs. They all use the open source software openframeworks which uses c++. 
 
-##ExcerciseAddons
-The first project is ExcerciseAddons. This program uses the openframeworks addons ofxBox2d and ofxGui. This project uses the gui to allow the user to change the radii of the squares and circles they make. 
+##ExerciseAddons
+The first project is ExerciseAddons. This program uses the openframeworks addons ofxBox2d and ofxGui. This project uses the gui to allow the user to change the radii of the squares and circles they make. 
 
 ![alt tag](https://github.com/BradTu/CreativeCoding/blob/master/Addons.PNG)
 
-##ExcerciseAnimation
-The second project is ExcerciseAnimation. This program makes a basic pong style game that two people can play at once. The player on the left controls their rectangle using the 'w' and 's' keys and the right player uses the 'up' and 'down' keys to control their rectangle. The game is continuous so if someone scores the ball bounces off of the wall and continues on and the score is adjusted.
+##ExerciseAnimation
+The second project is ExerciseAnimation. This program makes a basic pong style game that two people can play at once. The player on the left controls their rectangle using the 'w' and 's' keys and the right player uses the 'up' and 'down' keys to control their rectangle. The game is continuous so if someone scores the ball bounces off of the wall and continues on and the score is adjusted.
 
 ![alt tag](https://github.com/BradTu/CreativeCoding/blob/master/Animation.PNG)
 
